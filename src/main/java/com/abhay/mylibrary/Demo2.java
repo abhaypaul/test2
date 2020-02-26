@@ -1,6 +1,6 @@
 package com.abhay.mylibrary;
 
-public class Demo {
+public class Demo2 {
 
 
 }
